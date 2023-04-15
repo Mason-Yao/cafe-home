@@ -1,4 +1,7 @@
 # Restaurant Website
+
+### Visit [Serenity Cafe](https://mason-web-project01.s3.ap-southeast-2.amazonaws.com/home.html)
+
 This project is a responsive restaurant website, featuring a navigation bar, a carousel for showcasing dishes, and an image gallery with smooth transitions. The website is built using HTML, CSS, and JavaScript (with the help of jQuery library).
 
 ## Table of Contents
@@ -29,3 +32,4 @@ You can customize the website by modifying the HTML, CSS, and JavaScript files t
 * Dish names, descriptions, and images in the carousel
 * Images in the gallery
 * Fonts, colors, and other styles
+
